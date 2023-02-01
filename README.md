@@ -9,6 +9,7 @@ Package id: `hl7.affiliate.template`
 
 You can use it directly by stating 
 
-`template = https://github.com/fhir-fi/ig-template-hl7-affiliate#current`
+`template = https://github.com/fhir-fi/ig-template-hl7-affiliate`
 
-but you should probably derive your own template based on this base template.
+in your `ig.ini` file.
+However, you should probably derive your own template based on this base template.
