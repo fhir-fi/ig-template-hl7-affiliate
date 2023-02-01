@@ -55,7 +55,7 @@
 .note-to-balloters::before {
   white-space: pre;
   content: "Note To Balloters\A ";
-  #background-color: yellow;
+  /* background-color: yellow; */
   color: red;
   font-weight: bold;
 }
@@ -68,7 +68,7 @@
 .stu-note::before {
   white-space: pre;
   content: "STU Note\A ";
-  #background-color: yellow;
+  /* background-color: yellow; */
   color: red;
   font-weight: bold;
 }
