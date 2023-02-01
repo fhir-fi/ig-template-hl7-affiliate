@@ -1,0 +1,13 @@
+{
+  "name": "hl7.affiliate.template",
+  "version": "0.0.1",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "Base IG template to be used as a base for IGs published by HL7 Affiliates. Adopts the colors from the main FHIR specification. Based on fhir.base.template.",
+  "author": "http://hl7.fi/fhir",
+  "canonical": "https://github.com/fhir-fi/ig-template-hl7-affiliate",
+  "base": "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  }
+}
